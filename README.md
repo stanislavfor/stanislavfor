@@ -126,7 +126,7 @@
       <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     </a>
   </div>
-<br>
+<br><br>
 
 <p align="left">     
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>    
