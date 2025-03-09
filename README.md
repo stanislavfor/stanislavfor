@@ -13,12 +13,8 @@
     </a>
     <a href="https://www.linkedin.com/in/stanislav-skorodumov-5516a0178/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    
-    
-    <!-- <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blue" alt="Profile Views"/> -->
+    </a>     
   </div>
-
 </div>
 <br>
 <div align="center">
