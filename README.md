@@ -1,4 +1,3 @@
-<br><br><br>
 <div id="header" align="center">
 <img src="https://i.ibb.co/jZ5kZTkd/animated-flower-very-slow.gif" width="150" alt="animated-flower"/>
 </div>
