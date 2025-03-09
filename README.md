@@ -58,9 +58,9 @@
   <p><img src="https://streak-stats.demolab.com/?user=stanislavfor&theme=dark" alt="stanislavfor-streak-stats" /></p>
   <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stanislavfor&theme=dark" alt="stanislavfor" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stanislavfor&theme=dark" alt="stanislavfor" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stanislavfor&theme=dark" alt="stanislavfor" /></p>
+    </p>
   <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=stanislavfor&theme=react" alt="stanislavfor" /></p> <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) -->
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanislavfor&layout=compact&theme=vision-friendly-dark" alt="stanislavfor-github-readme-stat" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanislavfor&layout=compact&theme=vision-friendly-dark" alt="stanislavfor-github-readme-stat" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stanislavfor&theme=dark" alt="stanislavfor" /></p>
 </div>
 
 <br><br>
