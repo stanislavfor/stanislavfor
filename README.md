@@ -36,7 +36,7 @@
 ⚡ Love solving coding challenges on Udemy, Stepik, GeeksforGeeks, Geekbrains, and reading tech articles <br><br>
 [![Udemy](https://img.shields.io/badge/Udemy-black?style=flat)](https://udemy.com/), [![Stepik](https://img.shields.io/badge/Stepik-black?style=flat)](https://stepik.org/), [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-black?style=flat)](https://www.geeksforgeeks.org/), [![Geekbrains](https://img.shields.io/badge/Geekbrains-black?style=flat)](https://gb.ru/)
 <br><br><br>
-📬 **Let's Connect!** <br><br>
+#### 📬 Let's Connect! <br><br>
 <p>
     <img src="https://img.shields.io/badge/Contact%20me%20via:-white" width="180" height="30" alt="stanislavfor-badge" />
     <a href="mailto:stasposter@ya.ru" style="color: black; text-decoration: none;">
@@ -44,7 +44,7 @@
     </a>  
 </p>
 <br>
-✨ **Always open to collaboration and exciting opportunities!** <br><br>
+#### ✨ Always open to collaboration and exciting opportunities  <br><br>
 
 <br><br>
 
