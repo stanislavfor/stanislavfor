@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=2000&color=003140&width=435&lines=Fullstack+Web+Development+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=2000&color=003140&width=435&lines=Fullstack+Web+Developer)](https://git.io/typing-svg)
 <div id="header" align="center">
 <img src="https://i.ibb.co/jZ5kZTkd/animated-flower-very-slow.gif" width="150" alt="animated-flower"/>
 </div>
