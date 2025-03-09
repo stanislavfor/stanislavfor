@@ -46,7 +46,7 @@
     </a>  
 </p>
 <br>
-✨ Always open to collaboration and exciting opportunities! <br><br>
+✨ **Always open to collaboration and exciting opportunities!** <br><br>
 
 <br><br>
 
