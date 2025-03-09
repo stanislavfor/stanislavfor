@@ -5,15 +5,17 @@
 <br>
 <div id="badges" align="center">
   <div>
-    <a href="https://www.linkedin.com/in/stanislav-skorodumov-5516a0178/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://t.me/forstanislavfor" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://www.youtube.com/@stanislavfor-4u" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
     </a>
-    <a href="https://t.me/forstanislavfor" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <a href="https://www.linkedin.com/in/stanislav-skorodumov-5516a0178/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    
+    
     <!-- <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blue" alt="Profile Views"/> -->
   </div>
 
