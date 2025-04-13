@@ -27,7 +27,7 @@
 ###  👨🏻‍💻 About Me
 <hr><br>
 
-### 👋 Hey there! I'm @stanislavfor <br><br><br>
+/*/### 👋 Hey there! I'm @stanislavfor <br><br><br>*/
 💡 Passionate about Java, PHP, Python, React.js <br><br>
 🔧 Full Stack Developer | Building web apps from frontend to backend <br><br>
 🎮 Tech Enthusiast | A true Computerphile <br><br>
