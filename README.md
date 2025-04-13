@@ -26,16 +26,6 @@
 
 ###  👨🏻‍💻 About Me
 <hr><br>
-
-/*### 👋 Hey there! I'm @stanislavfor <br><br><br>*/
-💡 Passionate about Java, PHP, Python, React.js <br><br>
-🔧 Full Stack Developer | Building web apps from frontend to backend <br><br>
-🎮 Tech Enthusiast | A true Computerphile <br><br>
-💻 This page is more than just a profile – it's a portfolio of a reliable, skilled, and dedicated specialist. <br><br>
-🚀 Currently diving deep into React.js & JavaScript and exploring Technical Content Writing <br><br>
-⚡ Love solving coding challenges on Udemy, Stepik, GeeksforGeeks, Geekbrains, and reading tech articles <br><br>
-[![Udemy](https://img.shields.io/badge/Udemy-black?style=flat)](https://udemy.com/), [![Stepik](https://img.shields.io/badge/Stepik-black?style=flat)](https://stepik.org/), [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-black?style=flat)](https://www.geeksforgeeks.org/), [![Geekbrains](https://img.shields.io/badge/Geekbrains-black?style=flat)](https://gb.ru/)
-<br><br><br>
 #### 📬 Let's Connect! <br><br>
 <p>
     <img src="https://img.shields.io/badge/Contact%20me%20via:-white" width="180" height="30" alt="stanislavfor-badge" />
