@@ -161,7 +161,7 @@
 <p align="right">
     <img src="https://img.shields.io/badge/For%20any%20questions%2C%20reach%20me%20at-black?style=flat" width="320" height="21" alt="stanislavfor-badge" />
     <a href="mailto:stasposter@ya.ru">
-        <img src="https://img.shields.io/badge/Email-stasposter@ya.ru-blue?style=flat&logo=gmail&logoColor=white" width="280" height="21" alt="stanislavfor-badge-email" />
+        <img src="https://img.shields.io/badge/Email-stasposter@ya.ru-grey?style=flat&logo=gmail&logoColor=white" width="280" height="21" alt="stanislavfor-badge-email" />
     </a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="giphy.gif" />
 </p>
