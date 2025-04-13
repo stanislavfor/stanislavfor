@@ -25,8 +25,11 @@
 <br>
 
 ###  👨🏻‍💻 About Me
+
 <hr><br>
+
 #### 📬 Let's Connect! <br><br>
+
 <p>
     <img src="https://img.shields.io/badge/Contact%20me%20via:-white" width="180" height="30" alt="stanislavfor-badge" />
     <a href="mailto:stasposter@ya.ru" style="color: black; text-decoration: none;">
