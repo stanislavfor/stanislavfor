@@ -59,11 +59,7 @@
     width="350"
     style="vertical-align: bottom;"
   />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=stanislavfor&theme=high-contrast"
-    width="545"
-    style="vertical-align: bottom;"
-  />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=stanislavfor&theme=high-contrast" width="545" style="vertical-align: bottom;" /> -->
 </div>
 
 <br><br>
