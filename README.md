@@ -119,6 +119,8 @@ GitHub Actions, Docker Compose, Continuous Delivery
   <img src="https://img.shields.io/badge/Continuous%20Delivery-16A34A?style=for-the-badge"/>
 </p>
 
+<br><br>
+
 ### 🌐 Socials
 
 <div id="header" align="left">
