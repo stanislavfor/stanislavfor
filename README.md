@@ -52,7 +52,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stanislavfor&theme=dark" width="320" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stanislavfor&theme=dark" width="320" />
   <hr>  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stanislavfor&theme=dark" width="320" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stanislavfor&theme=dark" width="320" /> 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stanislavfor" width="320" />
   <hr>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stanislavfor&theme=high-contrast" width="550" style="vertical-align: bottom;" />
 
