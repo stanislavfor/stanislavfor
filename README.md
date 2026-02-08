@@ -61,8 +61,7 @@
 
 ### 🛠️ Languages and Tools (Tech Stack)
 
-- Backend:
-  
+- Backend:  
 Java, Spring Boot, Spring Security, REST
 - Frontend:  
 JavaScript, HTML5, CSS3
