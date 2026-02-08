@@ -47,12 +47,6 @@
 
 ### 🔥 My GitHub Stats
 
-<div id="stats" align="left">    
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stanislavfor&theme=dark" alt="stanislavfor" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stanislavfor&theme=dark" alt="stanislavfor" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stanislavfor&theme=dark" alt="stanislavfor" />
-</div>
-
 <div id="stats" align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stanislavfor&theme=dark" alt="stanislavfor" width="320" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stanislavfor&theme=dark" alt="stanislavfor" width="320" />
@@ -69,7 +63,7 @@
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=stanislavfor&theme=high-contrast"
     alt="stanislavfor"
-    width="545"
+    width="544"
     style="vertical-align: top;"
   />
 </div>
