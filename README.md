@@ -41,8 +41,8 @@
   <a href="mailto:stasposter@ya.ru">
   <img
     src="https://img.shields.io/badge/-stasposter%40ya.ru-yellow?style=flat&labelColor=yellow&logoColor=yellow"
-    width="240"
-    height="20"
+    width="230"
+    height="30"
     alt="stanislavfor-badge-email"
   />
 </a>
