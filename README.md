@@ -40,7 +40,7 @@
     </a>   -->
   <a href="mailto:stasposter@ya.ru">
   <img
-    src="https://img.shields.io/badge/-stasposter%40ya.ru-yellow?style=flat&labelColor=yellow&logoColor=yellow"
+    src="https://img.shields.io/-stasposter%40ya.ru-yellow?style=flat&labelColor=yellow&logoColor=yellow"
     width="250"
     height="30"
     alt="stanislavfor-badge-email"
