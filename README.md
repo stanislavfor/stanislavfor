@@ -35,9 +35,10 @@
 
 <p>
     <img src="https://img.shields.io/badge/Contact%20me%20via:-white" width="180" height="30" alt="stanislavfor-badge" />
-    <a href="mailto:stasposter@ya.ru" style="color: black; text-decoration: none;">
+    <!-- <a href="mailto:stasposter@ya.ru" style="color: black; text-decoration: none;">
         <img src="https://img.shields.io/badge/Email-stasposter@ya.ru-yellow?logoColor=white" width="250" height="30" alt="stanislavfor-badge-email" />
-    </a>  
+    </a>   -->
+  <a href="mailto:stasposter@ya.ru"><img src="https://img.shields.io/badge/Email-stasposter@ya.ru?style=flat&color=yellow&labelColor=yellow&logoColor=yellow" width="250" height="30" alt="emr-badge-email"/></a>
 </p>
 <!-- <br> -->
 
