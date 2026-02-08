@@ -26,10 +26,11 @@
 
 ###  👨🏻‍💻 About Me
 
-<hr>
+<!-- <hr> -->
 <!-- <br> -->
 
-#### 📬 Let's Connect! <br><br>
+#### 📬 Let's Connect! 
+<!-- <br><br> -->
 
 <p>
     <img src="https://img.shields.io/badge/Contact%20me%20via:-white" width="180" height="30" alt="stanislavfor-badge" />
@@ -44,7 +45,7 @@
 <br><br>
 
 ### 🔥 My GitHub Stats
-<hr><br>
+<!-- <hr><br> -->
 
 <div id="stats" align="center">    
   <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=stanislavfor&show_icons=true&locale=en&theme=dark" alt="stanislavfor" /></p>   -->
@@ -58,7 +59,7 @@
 <br><br>
 
 ###   🛠️ Languages and Tools
-<hr>
+<!-- <hr> -->
 <!-- <br> -->
 
 <div align="left">
@@ -123,7 +124,9 @@
       <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     </a>
   </div>
-<br><br>
+<!-- <br> -->
+<!-- <br> -->
+<hr>
 
 <p align="left">     
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>    
@@ -158,7 +161,7 @@
 </p>
 
 
-<br><br><hr><hr><br><br>
+<!-- <br><br><hr><hr><br><br> -->
 
 <!-- <p align="right">
     <img src="https://img.shields.io/badge/For%20any%20questions%2C%20reach%20me%20at-black?style=flat" width="320" height="21" alt="stanislavfor-badge" />
@@ -169,4 +172,4 @@
 </p> -->
 
 
-<br><br>
+<!-- <br><br> -->
