@@ -20,7 +20,7 @@
 <div align="center">
 <div id="title"> <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="stanislavfor-title" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hey there</h2></div>
 <div id="top-picture"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="stanislavfor-top-picture" /></div><br><br>  
-<!-- <div id="pictures"><img src="https://github-profile-trophy.vercel.app/?username=stanislavfor" alt="stanislavfor-pictures" /></div>   -->
+<!-- <div id="pictures"><img src="https://github-profile-trophy.vercel.app/?username=stanislavfor" alt="stanislavfor-pictures" /></div>-->
 </div>
 <br>
 
@@ -36,7 +36,7 @@
         <img src="https://img.shields.io/badge/Email-stasposter@ya.ru-blue?logoColor=white" width="250" height="30" alt="stanislavfor-badge-email" />
     </a>  
 </p>
-<br>
+<!-- <br> -->
 
 #### ✨ Always open to collaboration and exciting opportunities  <br><br>
 
@@ -50,7 +50,7 @@
 <!--   <p><img src="https://streak-stats.demolab.com/?user=stanislavfor&theme=dark" alt="stanislavfor-streak-stats" /></p> -->
   <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stanislavfor&theme=dark" alt="stanislavfor" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stanislavfor&theme=dark" alt="stanislavfor" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stanislavfor&theme=dark" alt="stanislavfor" /></p>
-  <!-- <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=stanislavfor&theme=high-contrast" alt="stanislavfor" /></p> <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) --> -->
+  <!-- <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=stanislavfor&theme=high-contrast" alt="stanislavfor" /></p> <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) -->
   <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanislavfor&layout=compact&theme=vision-friendly-dark" alt="stanislavfor-github-readme-stat" />  </p> -->
 </div>
 
