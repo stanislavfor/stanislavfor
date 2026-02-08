@@ -37,7 +37,7 @@
   <a href="mailto:stasposter@ya.ru">
     <img
       src="https://img.shields.io/badge/Contact%20me%20via%20Email-stasposter%40ya.ru-fff59d?style=flat&labelColor=lightgrey&logo=gmail&logoColor=white"
-      height="30"
+      height="40"
       alt="contact-email"
     />
   </a>
