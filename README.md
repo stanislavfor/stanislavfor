@@ -54,8 +54,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stanislavfor&theme=dark" alt="stanislavfor" width="320" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stanislavfor&theme=dark" alt="stanislavfor" width="320" />
   <hr>  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stanislavfor&theme=high-contrast" alt="stanislavfor" width="320" />
-  <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stanislavfor&theme=high-contrast" alt="stanislavfor" width="400" />
+  (https://github.com/ashutosh00710/github-readme-activity-graph)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanislavfor&layout=compact&theme=vision-friendly-dark" alt="stanislavfor-github-readme-stat" width="320" />
 </div>
 
