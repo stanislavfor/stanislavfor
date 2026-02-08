@@ -158,92 +158,84 @@
 <p align="left">    
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>    
 </p>
- -->
+
+
+### 🛠️ Languages and Tools
 
 <div align="left">
 
-<strong>Backend</strong><br/>
+  <!-- Backend -->
+  <p>
+    <strong>Backend</strong>&nbsp;&nbsp;
+    <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    </a>
+    <a href="https://spring.io/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    </a>
+    <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+    </a>
+    <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    </a>
+    <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    </a>
+  </p>
 
-<a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />
-</a>
-<a href="https://spring.io/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=white" />
-</a>
-<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white" />
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-<a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white" />
-</a>
+  <!-- Frontend -->
+  <p>
+    <strong>Frontend</strong>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  </p>
 
-<strong>Frontend</strong><br/>
+  <!-- Runtime & Tools -->
+  <p>
+    <strong>Runtime&nbsp;&amp;&nbsp;Tools</strong>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
+  </p>
 
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" />
-</a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" />
-</a>
-<a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" />
-</a>
-<a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-</a>
+  <!-- Databases -->
+  <p>
+    <strong>Databases</strong>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  </p>
 
-<strong>Runtime & Tools</strong><br/>
+  <!-- DevOps -->
+  <p>
+    <strong>DevOps</strong>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  </p>
 
-<a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</a>
-<a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white" />
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white" />
-</a>
-<a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white" />
-</a>
-<a href="https://yaml.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/YAML-black?style=for-the-badge&logo=yaml&logoColor=white" />
-</a>
+  <!-- Data -->
+  <p>
+    <strong>Data</strong>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  </p>
 
-<strong>Databases</strong><br/>
-
-<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white" />
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white" />
-</a>
-<a href="https://learn.microsoft.com/sql/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-black?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</a>
-
-<strong>Data</strong><br/>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white" />
-</a>
-
-<strong>Mobile</strong><br/>
-
-<a href="https://developer.android.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android&logoColor=white" />
-</a>
+  <!-- Mobile -->
+  <p>
+    <strong>Mobile</strong>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
+  </p>
 
 </div>
+
 
 <!-- <p align="right">
     <img src="https://img.shields.io/badge/For%20any%20questions%2C%20reach%20me%20at-black?style=flat" width="320" height="21" alt="stanislavfor-badge" />
