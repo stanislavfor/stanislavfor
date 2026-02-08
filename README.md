@@ -6,7 +6,7 @@
 <div id="badges" align="center">
   <div>
     <a href="https://www.linkedin.com/in/stanislav-skorodumov-5516a0178/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badget&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.youtube.com/@stanislavfor-4u" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
@@ -36,7 +36,7 @@
 <p>
   <a href="mailto:stasposter@ya.ru">
     <img
-      src="https://img.shields.io/badge/Contact%20me%20via%20Email-stasposter%40ya.ru-fff59d?style=flat&labelColor=d3d3d3&color=fff59d&logo=Yandex.ru&logoColor=white"
+      src="https://img.shields.io/badge/Contact%20me%20via%20Email-stasposter%40ya.ru-fff59d?style=for-the-badge&labelColor=d3d3d3&color=fff59d&logo=Mail.ru&logoColor=white"
       alt="contact-email"
     />
   </a>
