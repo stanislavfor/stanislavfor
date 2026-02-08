@@ -54,8 +54,7 @@
 
   <hr>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stanislavfor&theme=dark" width="320" />
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=stanislavfor&layout=compact&theme=vision-friendly-dark" width="350" style="vertical-align: bottom;" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stanislavfor&theme=dark" width="320" />  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stanislavfor&theme=high-contrast" width="545" style="vertical-align: bottom;" />
 
   
