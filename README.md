@@ -31,8 +31,7 @@
 
 <hr>
 
-#### 📬 Let's Connect!
-<!-- <br><br> -->
+##### ✨ Always open to collaboration and exciting opportunities
 
 <p>
     <img src="https://img.shields.io/badge/Contact%20me%20via:-white" width="180" height="30" alt="stanislavfor-badge" />
@@ -41,8 +40,6 @@
     </a>  
 </p>
 <!-- <br> -->
-
-##### ✨ Always open to collaboration and exciting opportunities
 
 <br><br>
 
