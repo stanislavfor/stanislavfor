@@ -55,7 +55,7 @@
   <hr>
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stanislavfor&theme=dark" />  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stanislavfor&theme=high-contrast" width="545" style="vertical-align: bottom;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stanislavfor&theme=high-contrast" width="550" style="vertical-align: bottom;" />
 
   
 
