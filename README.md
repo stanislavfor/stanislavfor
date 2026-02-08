@@ -59,23 +59,16 @@
 
 <br><br>
 
+### 🛠️ Languages and Tools (Tech Stack)
 
-## 🛠️ Languages and Tools
-
-### Backend  
+- Backend: 
 Java, Spring Boot, Spring Security, REST
-
-### Frontend  
+- Frontend:  
 JavaScript, HTML5, CSS3
-
-### Databases  
+- Databases:  
 PostgreSQL, MySQL, MongoDB
-
-### DevOps  
+- DevOps:  
 Docker, GitHub Actions, Linux, Nginx
-
-
-### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -83,21 +76,12 @@ Docker, GitHub Actions, Linux, Nginx
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge"/>
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -105,51 +89,31 @@ Docker, GitHub Actions, Linux, Nginx
 </p>
 
 
----
+#### 🏗️ Architecture & Practices (Engineering Stack)
 
-## 🏗️ Architecture & Practices
-
-### Architecture  
+- Architecture:  
 Microservices, Modular Monolith, REST API, Event-Driven, Clean Architecture
-
-### Security  
+- Security:  
 Spring Security, JWT, OAuth2, Keycloak
-
-### Testing  
+- Testing:  
 JUnit 5, Mockito, Testcontainers, TDD
-
-### CI/CD  
+- CI/CD:  
 GitHub Actions, Docker Compose, Continuous Delivery
-
-
-### Engineering Stack
 
 <p>
   <img src="https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Modular%20Monolith-4B5563?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Event--Driven-F59E0B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-111827?style=for-the-badge"/>
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge"/>
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/TDD-9333EA?style=for-the-badge"/>
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Continuous%20Delivery-16A34A?style=for-the-badge"/>
 </p>
-
-
-
