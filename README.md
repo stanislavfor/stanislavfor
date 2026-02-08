@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/jZ5kZTkd/animated-flower-very-slow.gif" width="150" alt="animated-flower"/>
 </div>
 <br>
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <div>
     <a href="https://www.linkedin.com/in/stanislav-skorodumov-5516a0178/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,7 +16,7 @@
     </a>
   </div>
 </div>
-<br>
+<br> -->
 <!-- <div align="center">
  <div id="title"> <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="stanislavfor-title" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hey there</h2></div>
  <div id="top-picture"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="stanislavfor-top-picture" /></div>
@@ -54,7 +54,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stanislavfor&theme=dark" width="320" />   
   <hr>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stanislavfor&theme=high-contrast" width="550" style="vertical-align: bottom;" />  
-
 </div>
 
 <br><br>
@@ -118,3 +117,17 @@ GitHub Actions, Docker Compose, Continuous Delivery
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Continuous%20Delivery-16A34A?style=for-the-badge"/>
 </p>
+
+### 🌐 Socials
+
+<div id="header" align="left">
+    <a href="https://www.linkedin.com/in/stanislav-skorodumov-5516a0178/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.youtube.com/@stanislavfor-4u" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+    </a>    
+    <a href="https://t.me/forstanislavfor" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>  
+</div>
