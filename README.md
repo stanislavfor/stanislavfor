@@ -35,7 +35,7 @@
 
 <p>
     <img src="https://img.shields.io/badge/Contact%20me%20via:-white" width="180" height="30" alt="stanislavfor-badge" />
-    <a href="mailto:stasposter@ya.ru" style="color: yellow; text-decoration: none;">
+    <a href="mailto:stasposter@ya.ru" style="color: black; text-decoration: none;">
         <img src="https://img.shields.io/badge/Email-stasposter@ya.ru-yellow?logoColor=white" width="250" height="30" alt="stanislavfor-badge-email" />
     </a>  
 </p>
@@ -44,7 +44,6 @@
 <br><br>
 
 ### 🔥 My GitHub Stats
-<!-- <hr><br> -->
 
 <div id="stats" align="center">    
   <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=stanislavfor&show_icons=true&locale=en&theme=dark" alt="stanislavfor" /></p>   -->
