@@ -54,18 +54,17 @@
 
   <hr>
 
-  <img
-    src="https://readme-stats-fast.vercel.app/api/top-langs/?username=stanislavfor&layout=compact&theme=vision-friendly-dark"
-    alt="Top languages"
-    width="350"
-    style="vertical-align: top;"
-  />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=stanislavfor&theme=high-contrast"
-    alt="stanislavfor"
-    width="544"
-    style="vertical-align: top;"
-  />
+  <table>
+  <tr>
+    <td valign="bottom">
+      <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=stanislavfor&layout=compact&theme=vision-friendly-dark" width="350" />
+    </td>
+    <td valign="bottom">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=stanislavfor&theme=high-contrast" width="545" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br><br>
