@@ -63,7 +63,7 @@
 
 ### 🛠️ Languages and Tools
 
-<!-- <div align="left">
+<div align="left">
     <a href="https://www.java.com" target="_blank">
       <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
     </a>
