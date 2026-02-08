@@ -1,8 +1,8 @@
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
 <img src="https://i.ibb.co/jZ5kZTkd/animated-flower-very-slow.gif" width="150" alt="animated-flower"/>
 </div>
-<br>
+<br> -->
 <!-- <div id="badges" align="center">
   <div>
     <a href="https://www.linkedin.com/in/stanislav-skorodumov-5516a0178/" target="_blank">
@@ -30,6 +30,7 @@
 
 ### 👋 Hi, I’m Stanislav!
 
+I’m a Java backend engineer with 5+ years of full-stack development experience.
 <hr>
 
 #### ✨ Always open to collaboration and exciting opportunities
