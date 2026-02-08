@@ -36,7 +36,7 @@
 <p>
   <a href="mailto:stasposter@ya.ru">
     <img
-      src="https://img.shields.io/badge/Contact%20me%20via%20Email-stasposter%40ya.ru-fff59d?style=for-the-badge&labelColor=d3d3d3&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Contact%20me%20via%20Email-stasposter%40ya.ru-fff59d?style=for-the-badge&labelColor=d3d3d3&logoColor=white"
       alt="contact-email"
     />
   </a>
