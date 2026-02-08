@@ -160,9 +160,105 @@
 <p align="left">    
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>    
 </p>
-<!-- <p align="left">    
-        
-</p> -->
+
+
+### 🛠️ Languages and Tools
+
+<div align="left">
+
+  <!-- Backend -->
+  <strong>Backend</strong><br/>
+  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Java-black?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Spring-black?style=flat&logo=spring&logoColor=white" alt="Spring"/>
+  </a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/C%23-black?style=flat&logo=csharp&logoColor=white" alt="C#"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PHP-black?style=flat&logo=php&logoColor=white" alt="PHP"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Frontend -->
+  <strong>Frontend</strong><br/>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white" alt="JavaScript"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=white" alt="React"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Vue-black?style=flat&logo=vuedotjs&logoColor=white" alt="Vue"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Runtime / Tools -->
+  <strong>Runtime & Tools</strong><br/>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Express-black?style=flat&logo=express&logoColor=white" alt="Express"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Postman-black?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+  </a>
+  <a href="https://yaml.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YAML-black?style=flat&logo=yaml&logoColor=white" alt="YAML"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Databases -->
+  <strong>Databases</strong><br/>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </a>
+  <a href="https://learn.microsoft.com/sql/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MS%20SQL%20Server-black?style=flat&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Data / Misc -->
+  <strong>Data</strong><br/>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Mobile -->
+  <strong>Mobile</strong><br/>
+  <a href="https://developer.android.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Android-black?style=flat&logo=android&logoColor=white" alt="Android"/>
+  </a>
+
+</div>
+
 
 
 <!-- <br><br><hr><hr><br><br> -->
