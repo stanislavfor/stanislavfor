@@ -36,13 +36,13 @@
 <p>
     <img src="https://img.shields.io/badge/Contact%20me%20via%20Email:-white" width="180" height="30" alt="stanislavfor-badge" />
     <!-- <a href="mailto:stasposter@ya.ru" style="color: black; text-decoration: none;">
-        <img src="https://img.shields.io/badge/Email-stasposter@ya.ru-yellow?logoColor=white" width="250" height="40" alt="stanislavfor-badge-email" />
+        <img src="https://img.shields.io/badge/Email-stasposter@ya.ru-yellow?logoColor=white" width="250" height="50" alt="stanislavfor-badge-email" />
     </a>   -->
   <a href="mailto:stasposter@ya.ru">
   <img
     src="https://img.shields.io/badge/-stasposter%40ya.ru-yellow?style=flat&labelColor=yellow&logoColor=yellow"
     width="240"
-    height="30"
+    height="20"
     alt="stanislavfor-badge-email"
   />
 </a>
