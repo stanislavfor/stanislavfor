@@ -6,7 +6,7 @@
 <div id="badges" align="center">
   <div>
     <a href="https://www.linkedin.com/in/stanislav-skorodumov-5516a0178/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.youtube.com/@stanislavfor-4u" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
