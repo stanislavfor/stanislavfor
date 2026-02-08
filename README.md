@@ -26,7 +26,8 @@
 
 ###  👨🏻‍💻 About Me
 
-<hr><br>
+<hr>
+<!-- <br> -->
 
 #### 📬 Let's Connect! <br><br>
 
@@ -57,7 +58,8 @@
 <br><br>
 
 ###   🛠️ Languages and Tools
-<hr><br>
+<hr>
+<!-- <br> -->
 
 <div align="left">
     <a href="https://www.java.com" target="_blank">
