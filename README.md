@@ -24,12 +24,10 @@
 </div>
 <br>
 
-###  👨🏻‍💻 About Me
-
 <!-- <hr> -->
 <!-- <br> -->
 
-#### 📬 Let's Connect! 
+#### 📬 Let's Connect!
 <!-- <br><br> -->
 
 <p>
@@ -40,7 +38,7 @@
 </p>
 <!-- <br> -->
 
-#### ✨ Always open to collaboration and exciting opportunities  <br><br>
+#### ✨ Always open to collaboration and exciting opportunities
 
 <br><br>
 
