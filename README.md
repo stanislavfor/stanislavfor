@@ -46,7 +46,7 @@
 
 ### 🔥 My GitHub Stats
 
-<div id="stats" align="center">    
+<div id="stats" align="left">    
   <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=stanislavfor&show_icons=true&locale=en&theme=dark" alt="stanislavfor" /></p>   -->
 <!--   <p><img src="https://streak-stats.demolab.com/?user=stanislavfor&theme=dark" alt="stanislavfor-streak-stats" /></p> -->
   <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stanislavfor&theme=dark" alt="stanislavfor" />
