@@ -29,6 +29,9 @@
 
 ### 👋 Hi, I’m Stanislav!
 
+<hr>
+
+#### ✨ Always open to collaboration and exciting opportunities
 <p>
   <a href="mailto:stasposter@ya.ru">
     <img
@@ -37,11 +40,6 @@
     />
   </a>
 </p>
-
-<hr>
-
-#### ✨ Always open to collaboration and exciting opportunities
-
 
 
 <br><br>
