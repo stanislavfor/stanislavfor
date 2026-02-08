@@ -33,7 +33,7 @@
 I’m a Java backend engineer with 5+ years of full-stack development experience.
 <hr>
 
-#### ✨ Always open to collaboration and exciting opportunities
+#### ✨ Open to collaboration and exciting opportunities
 <p>
   <a href="mailto:stasposter@ya.ru">
     <img
