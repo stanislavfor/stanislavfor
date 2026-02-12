@@ -95,7 +95,7 @@ GitHub Actions, Docker Compose, Continuous Delivery
 
 <br><br>
 
-### 🌐 Socials
+### 📡 Socials
 
 <div align="left">
   <a href="https://www.linkedin.com/in/stanislav-skorodumov-5516a0178/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
@@ -108,3 +108,5 @@ GitHub Actions, Docker Compose, Continuous Delivery
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
+
+<!-- 🌐 -->
